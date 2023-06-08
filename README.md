@@ -28,5 +28,9 @@ Based on various meteorological surveys and people's styles, the service provide
 - Uber Supply-Demand Gap: Use analytics to understand why Uber faces demand and supply challenge and what can be done to overcome it. Use Data manipulation, visualization and EDA skills to identify the problem faced by Uber
 - Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
-## Acknowledgements
+### Acknowledgements
 - This project was based on this tutorial [IIIT-B Upgrad ML Assignment]
+- This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
+
